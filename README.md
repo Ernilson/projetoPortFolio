@@ -11,14 +11,20 @@ Sistema para gerenciar os dados do portfólio de projetos de uma empresa.
 - Maven
 
 ## Frameworks e Tecnologias:
-- Spring Boot / Data
+- Spring Boot
 - JSP (JavaServer Pages)
+- frameworks Spring/jpa
+- padrão MVC
 - Hibernate
 - Interface web com Bootstrap
-- JUnit 5
+- Testes JUnit 5
 
 ## Banco de Dados:
 - Postgres
+- Nome do banco: testeDb1
+
+## Execulte
+- mvn clean install
 
 ## Acesso ao Frontend do Projeto
 - http://localhost:8080/arsolemtec/pessoas/novo
