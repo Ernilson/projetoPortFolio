@@ -28,7 +28,7 @@ Sistema para gerenciar os dados do portfólio de projetos de uma empresa.
 <br><br>
 
 ## Diagrama do Banco de Dados
-![Diagrama BD](https://github.com/Ernilson/PortFolioManger/assets/89745459/136eae77-ede1-49fa-8e2a-030f77bfdaaf)
+![Diagrama BD](https://github.com/Ernilson/projetoPortFolio/assets/89745459/136eae77-ede1-49fa-8e2a-030f77bfdaaf)
 
 ## Layout da aplicação
 ![Tela1](https://github.com/Ernilson/PortFolioManger/assets/89745459/a02cf4b6-bc62-4159-a003-712e4832dd47)
